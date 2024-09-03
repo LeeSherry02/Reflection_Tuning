@@ -1,7 +1,8 @@
 # Reflection-Tuning: An Approach for Data Recycling (ACL'24)
 
 [Method V1] [Reflection-Tuning: Data Recycling Improves LLM Instruction-Tuning](https://arxiv.org/abs/2310.11716) (NIPS'23 Wrokshop)<br>
-[Method V2] [Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning](https://arxiv.org/abs/2402.10110) (ACL'24)
+[Method V2] [Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning](https://arxiv.org/abs/2402.10110) (ACL'24)<br>
+Chinese Version: [[知乎]](https://zhuanlan.zhihu.com/p/718119529)
 
 <p align="center" width="40%">
 <a ><img src="images/alpaca1.jpg" alt="overview" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
