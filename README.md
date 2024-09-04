@@ -26,11 +26,11 @@ The repo contains:
 (Feel free to email minglii@umd.edu for any questions or feedback.)
 
 ## News
-- [2024/05] Our Selective Reflection-Tuning paper has been accepted to the **ACL 2024** findings! 
+- [2024/05] Our [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110) has been accepted to the **ACL 2024** findings! 
 - [2024/02] We release the paper of our Selective Reflection-Tuning.
 - [2023/12] We add the complete data of Selective Instruction-Tuning (V2 method) and add the evaluation results. 
 - [2023/12] We add the description of Selective Instruction-Tuning (V2 method).
-- [2023/10] The Reflection-Tuning paper is accepted by the **NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following**.
+- [2023/10] The [Reflection-Tuning](https://openreview.net/forum?id=xaqoZZqkPU) has been accepted by the **NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following**.
 - [2023/10] We released the V2 model and pushed models to the Alpaca Eval leaderboard. 
 - [2023/10] We released codes for this project.
 
