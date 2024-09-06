@@ -23,7 +23,7 @@ The repo contains:
 **Overall Reflected Data IFD scores**:[Alpaca llama2 7b](https://huggingface.co/datasets/MingLiiii/Alpaca_Analysis_llama2_7b), [Alpaca llama2 13b](https://huggingface.co/datasets/MingLiiii/Alpaca_Analysis_llama2_13b), [WizardLM70k llama2 7b](https://huggingface.co/datasets/MingLiiii/Wiz70_Analysis_llama2_7b), [WizardLM70k llama2 13b](https://huggingface.co/datasets/MingLiiii/Wiz70_Analysis_llama2_13b)
 
 
-(Feel free to email Ming ([Homepage](https://mingliiii.github.io/),[Email](minglii@umd.edu)) for any questions or feedback.)
+(Feel free to email Ming ([Homepage](https://mingliiii.github.io/), [Email](minglii@umd.edu)) for any questions or feedback.)
 
 ## News
 - [2024/09] 💥💥 Our [Reflection-Tuning](https://openreview.net/forum?id=xaqoZZqkPU) method is utilized by [mattshumer/Reflection-Llama-3.1-70B](https://huggingface.co/mattshumer/Reflection-Llama-3.1-70B), obtaining a **Really Great Performance**! We thank them for utilizing and scaling up our method!! 🚀🚀
