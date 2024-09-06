@@ -26,7 +26,6 @@ The repo contains:
 (Feel free to email Ming ([Homepage](https://mingliiii.github.io/), [Email](minglii@umd.edu)) for any questions or feedback.)
 
 ## News
-- [2024/09] 💥💥💥 **Our [Reflection-Tuning](https://openreview.net/forum?id=xaqoZZqkPU) method is utilized by [mattshumer/Reflection-Llama-3.1-70B](https://huggingface.co/mattshumer/Reflection-Llama-3.1-70B), obtaining a Really Great Performance! We thank them for utilizing and scaling up our method!!** 🚀🚀🚀
 - [2024/05] Our [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110) has been accepted to the **ACL 2024** findings! 
 - [2024/02] We release the paper of our Selective Reflection-Tuning.
 - [2023/12] We add the complete data of Selective Instruction-Tuning (V2 method) and add the evaluation results. 
