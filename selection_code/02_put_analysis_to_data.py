@@ -8,9 +8,9 @@ import os
 put_analysis_to_data.py 脚本的主要功能是将分析结果（ppl 和 loss 相关的指标）合并到原始的 JSON 数据中，并保存为一个新的 JSON 文件。通过这种方式，可以将分析结果与原始数据结合，便于后续的数据分析和处理
 
 python selection_code/02_put_analysis_to_data.py \
-    --pt_data_path data/huatuo_26m_lite/analysis/huatuo_26m_lite_score_5_alpaca_100.jsonl \
-    --json_data_path data/huatuo_26m_lite/huatuo_26m_lite_score_5_alpaca_100.json \
-    --json_save_path data/huatuo_26m_lite/result/huatuo_26m_lite_score_5_alpaca_100.json 
+    --pt_data_path data/huatuo_26m_lite/analysis/huatuo_26m_lite_score_5_alpaca.jsonl \
+    --json_data_path data/huatuo_26m_lite/huatuo_26m_lite_score_5_alpaca.json \
+    --json_save_path data/huatuo_26m_lite/result/huatuo_26m_lite_score_5_alpaca.json 
     
 """
 

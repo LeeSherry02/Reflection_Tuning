@@ -1,3 +1,8 @@
+
+"""
+python /remote-home/xiaoyili/2025-Medical/Reflection_Tuning/selection_code/01_data_analysis.py --config /remote-home/xiaoyili/2025-Medical/Reflection_Tuning/selection_code/01_data_analysis_config.json
+"""
+
 import os
 import json
 import torch

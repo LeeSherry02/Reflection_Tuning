@@ -1,6 +1,6 @@
 {
-    "data_path": "/remote-home/xiaoyili/2025-Medical/Reflection_Tuning/data/huatuo_26m_lite/huatuo_26m_lite_score_5_alpaca_100.json",
-    "save_path": "/remote-home/xiaoyili/2025-Medical/Reflection_Tuning/data/huatuo_26m_lite/analysis/huatuo_26m_lite_score_5_alpaca_100.jsonl",
+    "data_path": "/remote-home/xiaoyili/2025-Medical/Reflection_Tuning/data/huatuo_26m_lite/huatuo_26m_lite_score_5_alpaca.json",
+    "save_path": "/remote-home/xiaoyili/2025-Medical/Reflection_Tuning/data/huatuo_26m_lite/analysis/huatuo_26m_lite_score_5_alpaca.jsonl",
     "model_name_or_path": "/remote-home/xiaoyili/2025-Medical/model/Qwen/Qwen2___5-1___5B",
     "max_length": 2048,
     "start_idx": 0,
